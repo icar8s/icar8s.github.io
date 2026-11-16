@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icar8s.github.io/sitemap.xml
